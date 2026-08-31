@@ -1,0 +1,24 @@
+{
+  "name": "playwriht-automation-testing",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "playwright": "^1.58.2",
+    "playwright-core": "^1.58.2",
+    "undici-types": "^7.18.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^25.3.0"
+  }
+}

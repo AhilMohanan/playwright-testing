@@ -1,0 +1,1 @@
+D:/Playwriht automation Testing/.github/copilot-instructions.md
